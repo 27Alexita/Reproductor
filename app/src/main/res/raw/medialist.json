@@ -1,0 +1,53 @@
+{
+    "recursos_list": [
+        {
+            "nombre": "MGMT",
+            "descripcion": "Kids",
+            "tipo": "0",
+            "URI": "mgmt_kids",
+            "imagen": "mgmt.jpg"
+        },
+        {
+            "nombre": "Moby",
+            "descripcion": "Why does my heart feel so bad?",
+            "tipo": "0",
+            "URI": "moby_whydoesmyheart",
+            "imagen": "moby.jpg"
+        },
+        {
+            "nombre": "Snap!",
+            "descripcion": "Rhythm is a dancer",
+            "tipo": "0",
+            "URI": "snap_rhythmisadancer",
+            "imagen": "snap.jpg"
+        },
+        {
+            "nombre": "Supermode",
+            "descripcion": "Tell me why",
+            "tipo": "0",
+            "URI": "supermode_tellmewhy",
+            "imagen": "tellmewhy.jpg"
+        },
+        {
+            "nombre": "Technotronic",
+            "descripcion": "Pump up the jam",
+            "tipo": "0",
+            "URI": "technotronic_pumpupthejam",
+            "imagen": "technotronic.jpg"
+        },
+        {
+            "nombre": "The Snake Corps",
+            "descripcion": "This is a seagull",
+            "tipo": "0",
+            "URI": "thesnakecorps_thisisaseagull",
+            "imagen": "snakecorps.jpg"
+        },
+        {
+            "nombre": "Underworld",
+            "descripcion": "Born slippy",
+            "tipo": "0",
+            "URI": "underworld_bornslippy",
+            "imagen": "underworld.jpg"
+        }
+    ]
+}
